@@ -1,6 +1,6 @@
 # ts-yoga-graphql-demo
 
-This is a [graphql-yoga](graphql-yoga.com) based demo with subscription over websocket
+This is a [graphql-yoga](https://graphql-yoga.com) based demo with subscription over websocket
 
 ## Run
 
